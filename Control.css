@@ -1,0 +1,52 @@
+.container{
+background-color: blue;
+border: 2px solid #00ffff;
+padding: 15px;
+max-width: 300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+  
+}
+.item-A{
+    border: 2px solid;
+    border: 2ps solid blue;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+   
+}
+.item-B{
+    border: 2px solid;
+    background-color: blueviolet;
+     border: 2px solid;
+    border: 2ps solid blue;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
+.item-C{
+    border: 2px solid;
+     border: 2px solid;
+    border: 2ps solid rgb(2, 143, 165);
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
+.item-D{
+    border: 2px solid;
+     border: 2px solid;
+    border: 2ps solid rgb(189, 220, 10);
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
+.item-E{
+    border: 2px solid;
+     border: 2px solid;
+    border: 2ps solid rgb(190, 7, 132);
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
